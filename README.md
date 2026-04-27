@@ -1,5 +1,16 @@
 # fluxsocial-go
-Go social graph: agents, relations, groups, centrality, roles
+
+Go implementation of the social graph and relationship modeling layer for agent fleets.
+
+See [flux-social](https://github.com/Lucineer/flux-social) for the canonical Rust implementation.
+
+## Quick Start
+
+```bash
+git clone https://github.com/Lucineer/fluxsocial-go.git
+cd fluxsocial-go
+go test ./...
+```
 
 ---
 
